@@ -1,1 +1,1 @@
-{"featnames":["constant","pH","salinity"],"featcats":[null,null,null],"yname":"poison","ycats":null}
+{"featnames":["constant","pH","salinity"],"featcats":[null,null,null],"yname":"poison","ycats":null,"attribution":"from Shelton, Christian R. Introduction to Machine Learning: Illustrated Principles. Cambridge University Press, 2027."}

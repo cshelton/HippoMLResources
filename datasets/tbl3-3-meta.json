@@ -1,1 +1,1 @@
-{"featnames":["age","eye","size"],"featcats":[["young","adult"],["red","green","brown"],["short","medium","tall"]],"yname":"smelly?","ycats":["no","yes"]}
+{"featnames":["age","eye","size"],"featcats":[["young","adult"],["red","green","brown"],["short","medium","tall"]],"yname":"smelly?","ycats":["no","yes"],"attribution":"from Shelton, Christian R. Introduction to Machine Learning: Illustrated Principles. Cambridge University Press, 2027."}

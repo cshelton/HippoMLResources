@@ -1,1 +1,1 @@
-{"featnames":["eyes","nose","mouth"],"featcats":[["circle","triangle","square","diamond"],["none","short","long"],["toothy","smile","frown"]],"yname":"type","ycats":["funny","scary","weird"]}
+{"featnames":["eyes","nose","mouth"],"featcats":[["circle","triangle","square","diamond"],["none","short","long"],["toothy","smile","frown"]],"yname":"type","ycats":["funny","scary","weird"],"attribution":"from Shelton, Christian R. Introduction to Machine Learning: Illustrated Principles. Cambridge University Press, 2027."}

@@ -1,1 +1,1 @@
-{"featnames":["repost?","length","view"],"featcats":[["no","yes"],["short","long"],["-","0","+"]],"yname":"type","ycats":["humor","review","request"]}
+{"featnames":["repost?","length","view"],"featcats":[["no","yes"],["short","long"],["-","0","+"]],"yname":"type","ycats":["humor","review","request"],"attribution":"from Shelton, Christian R. Introduction to Machine Learning: Illustrated Principles. Cambridge University Press, 2027."}

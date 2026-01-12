@@ -1,1 +1,1 @@
-{"featnames":["origin","roundness","juiciness"],"featcats":[["farm","crate"],null,null],"yname":"type","ycats":["watermelon","pumpkin"]}
+{"featnames":["origin","roundness","juiciness"],"featcats":[["farm","crate"],null,null],"yname":"type","ycats":["watermelon","pumpkin"],"attribution":"from Shelton, Christian R. Introduction to Machine Learning: Illustrated Principles. Cambridge University Press, 2027."}
