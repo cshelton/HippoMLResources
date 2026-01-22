@@ -45,7 +45,7 @@ class dataset:
                                featcats=self.featcats,
                                yname=self.yname,
                                ycats=self.ycats,
-                               attribution = self.attribution),
+                               attribution=self.attribution),
                           fmeta,
                           separators=(',',':'))
         else:
@@ -54,7 +54,7 @@ class dataset:
                                featcats=self.featcats,
                                yname=self.yname,
                                ycats=self.ycats,
-                               attribution = self.attribution),
+                               attribution=self.attribution),
                           fmeta,
                           separators=(',',':'))
 
